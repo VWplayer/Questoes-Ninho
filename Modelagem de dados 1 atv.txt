@@ -1,0 +1,30 @@
+Produto - Papelaria
+* Id do produto - (PK)
+* Nome do produto
+* Preço do produto
+* Volume do produto
+
+Funcionário - Escola
+* Id do funcionário - (PK)
+* Nome do funcionário
+* Rg do funcionário
+* Cpf do funcionário
+* Cargo do funcionário
+* Data de nascimento do funcionário
+* Telefone do funcionário 
+* Sexo do funcionário
+* Estado civil do funcionário
+
+Fornecedores - Tecidos
+* Id do fornecedor - (PK)  
+* Nome do fornecedor
+* CNPJ do fornecedor
+* Tipo do tecido fornecido
+* Localidade do fornecedor
+
+Departamentos - Empresa
+* Id do departamento - (PK)
+* Nome do departamento
+* Funcionários do departamento
+* Localização do departamento 
+* 
